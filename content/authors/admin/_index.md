@@ -67,7 +67,11 @@ email: ""
 highlight_name: true
 ---
 
-Catherine is a postdoctoral researcher at Queensland University of Technology in Brisbane, Australia. She is currently working on the Decision Science and Rubble Stabilisation subprograms of the Reef Restoration and Adaptation Program with Profs Michael Bode and Scott Bryan, respectively. She also works in Timor-Leste conducting coral reef surveys and investigating Tara Bandu customary law as a means of marine conservation. 
+## 👋 Hi, I'm Catherine
+
+I'm currently a postdoctoral researcher at Queensland University of Technology in Brisbane, Australia. My current work is with the Decision Science and Rubble Stabilisation subprograms of the Reef Restoration and Adaptation Program with Profs Michael Bode and Scott Bryan, respectively. 
+
+My PhD research focused on the coral reef ecology of Timor-Leste and am interested in ecology and marine conservation there and the wider Indo-Pacific. 
 
 
 
