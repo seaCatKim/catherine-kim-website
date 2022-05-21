@@ -14,23 +14,23 @@ organizations:
   url: https://www.qut.edu.au/about/our-people/academic-profiles/cat.kimExternal link 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Coral reef ecologists currently working in the Rubble Stabilisation and Decision Science subprograms of Australia's Reef Restoration and Adaptation Program. Also working in Timor-Leste and lover of R, baking, and knitting.
+bio: Coral reef ecologists all about rubble in Australia's Reef Restoration and Adaptation Program. Als, working in Timor-Leste and lover of R, baking, and knitting.
 
 # Interests to show in About widget
-interests:
-- Coral Reef Ecology
-- Restoration
-- R!
+# interests:
+# - Coral Reef Ecology
+# - Restoration
+# - R!
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Biological Sciences
-    institution: The University of Queensland
-    year: 2021
-  - course: BSc in Science of Earth Systems concentration Oceanography
-    institution: Cornell University
-    year: 2012
+# education:
+#   courses:
+#   - course: PhD in Biological Sciences
+#     institution: The University of Queensland
+#     year: 2021
+#   - course: BSc in Science of Earth Systems concentration Oceanography
+#     institution: Cornell University
+#     year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,9 +69,7 @@ highlight_name: true
 
 ## 👋 Hi, I'm Catherine
 
-I'm currently a postdoctoral researcher at Queensland University of Technology in Brisbane, Australia. My current work is with the Decision Science and Rubble Stabilisation subprograms of the Reef Restoration and Adaptation Program with Profs Michael Bode and Scott Bryan, respectively. 
-
-My PhD research focused on the coral reef ecology of Timor-Leste and am interested in ecology and marine conservation there and the wider Indo-Pacific. 
+I'm currently a postdoctoral researcher at Queensland University of Technology in Brisbane, Australia. My current work is with the Decision Science and Rubble Stabilisation subprograms of the Reef Restoration and Adaptation Program with Profs Michael Bode and Scott Bryan, respectively.
 
 
-
+My PhD research focused on the coral reef ecology of Timor-Leste 🇹🇱 and am interested in ecology and marine conservation there and the wider Indo-Pacific.
