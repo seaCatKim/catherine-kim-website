@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Dr Catherine Kim # Website name
-baseURL: 'www.catherinejkim.com' # Website URL
+baseURL: 'https://www.catherinejkim.com' # Website URL
 
 ############################
 ## LANGUAGE
@@ -55,6 +55,9 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   _merge: deep
 related:
   threshold: 80
