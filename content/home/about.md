@@ -13,11 +13,13 @@ headless: true
 weight: 20
 
 title: Welcome
+subtitle: 👋 Hi, I'm Catherine 
+# not working
 
 design:
   columns: '1'
   background:
-    image: Beloi_2015.jpg
+    image: /Beloi_2015.jpg
     image_darken: 0.5  # range 0-1, close to 0 is darker
     image_parallax: true
     image_position: center
