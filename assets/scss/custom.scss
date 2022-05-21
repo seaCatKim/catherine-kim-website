@@ -1,0 +1,73 @@
+/*Animate the about page */
+
+
+#about {
+  @keyframes blue2white {
+    from {
+    opacity: 0;
+    color: blue;
+    }
+    to {
+    opacity: 1;
+    color: white;
+    }
+  }
+
+  @keyframes fade-in {
+    0% {
+    opacity: 0;
+    }
+    100% {
+    opacity: 1;
+    }
+  }
+
+  .biography-title {
+    animation: blue2white 4s forwards;
+  }
+
+  .main-content {
+    opacity: 0;
+    animation: fade-in 5s forwards;
+    animation-delay: 3s;
+  }
+
+  .interests-div {
+  opacity: 0;
+  animation: fade-in 1s forwards;
+  animation-delay: 10s;
+  }
+
+  .education-div {
+  opacity: 0;
+  animation: fade-in 1s forwards;
+  animation-delay: 10s;
+  }
+}
+
+#profile {
+  opacity: 0;
+  animation: fade-in 1s forwards;
+  animation-delay: 10s;
+}
+
+@keyframes slide-from-right {
+  0% {
+    transform: translateX(150%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+@keyframes slide-from-left {
+  0% {
+    transform: translateX(-150%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
+
+
