@@ -2,9 +2,10 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+active: false
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 40
