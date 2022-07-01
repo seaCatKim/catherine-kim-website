@@ -11,7 +11,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Queensland University of Technology
-  url: https://www.qut.edu.au/about/our-people/academic-profiles/cat.kimExternal link 
+  url: https://www.qut.edu.au/about/our-people/academic-profiles/cat.kim 
 
 # Short bio (displayed in user profile at end of posts)
 bio: Coral reef ecologists all about rubble in Australia's Reef Restoration and Adaptation Program. Als, working in Timor-Leste and lover of R, baking, and knitting.
@@ -51,7 +51,7 @@ social:
   link: https://github.com/seaCatKim
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/sea-catkim
+  link: www.linkedin.com/in/seacatkim
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
