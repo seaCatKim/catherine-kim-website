@@ -17,7 +17,7 @@ main:
     url: '#featured'
     weight: 40
   - name: CV
-    url: '#experience'
+    url: uploads/CKim_CV_2022_3.pdf
     weight: 50
   - name: Contact
     url: '#contact'
