@@ -72,4 +72,4 @@ highlight_name: true
 I'm currently a postdoctoral researcher at Queensland University of Technology in Brisbane, Australia. My current work is with the Decision Science and Rubble Stabilisation subprograms of the [Reef Restoration and Adaptation Program](https://gbrrestoration.org/) with Professors Michael Bode and Scott Bryan, respectively.
 
 
-My PhD research focused on the coral reef ecology of Timor-Leste 🇹🇱 and am interested in ecology and marine conservation there and the wider Indo-Pacific.
+My PhD research focused on the coral reef ecology of Timor-Leste 🇹🇱 and am interested in ecology and marine conservation in the wider Indo-Pacific.
