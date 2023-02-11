@@ -16,7 +16,7 @@ lastmod: "2019-09-05T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -39,8 +39,6 @@ categories:
 
 A lot of the time I get a quizzical look when I say my research is in Timor-Leste. Sometimes, a few seconds of thought gives an “Oh… EAST Timor” response, but a good chunk of people have never heard of the place. Which is understandable, as it is a tiny nation of 1.3 million people encompassing half of Timor Island and has been formally a country less time than I have been alive. Timor-Leste is still officially a teenager with its independence in 2002. With the 20 year anniversary of the referendum popular consultation for independence, I thought I would briefly outline Timor-Leste’s history.
 
-PIC: flyover
-
 Honestly, other than a basic timeline I did not have a good understanding of Timor-Leste’s history until doing a tour in the capital of Dili. The Portuguese colonized Timor in the 1500s when it was a global superpower. Prior to colonization, Timor Island was comprised of various tribes. Like most colonial powers at the time, Portugal was primarily interested in the unspoiled resources of the island like sandalwood and they did a good job of clearing it out. I do not think there is any sandalwood left in Timor to this day.
 
 Timor-Leste was a Portuguese colony until a military coup back in Portugal in November 28, 1975. Even during Timor’s time as a Portuguese colony, the indigenous population was marginalized. It had never occurred to me that the Timorese had been poorly treated through limited education etc. long before the Indonesian occupation even though discrimination of the native population was standard for colonizers. The independence was short-lived, however, when the Indonesians marched in nine days later.
@@ -50,7 +48,6 @@ The international community was aware of Indonesia’s plans to annex Timor-Lest
 As a former Portuguese colony, the Timorese are culturally very different than Indonesia with a large majority of the population following the Catholic Church. The Indonesians were ruthless in Timor-Leste. An estimated 100,000 to 300,000 Timorese died during the Indonesian occupation from starvation and violence. The violence was not only from the Indonesians, but also internal Timorese parties such as pro-independence, pro-autonomy, and pro-Portuguese parties vying for power in the resistance. 
 
 In 1989, Pope John Francis the VI visited Timor-Leste and delivered mass from Tasi Tolu. Pope Francis was the only international dignitary to visit Timor-Leste during the Indonesian occupation. His visit served to shed light on the humanitarian crisis in Timor-Leste.
-
 
 ![](TasiTolu_20year.jpg)
 
