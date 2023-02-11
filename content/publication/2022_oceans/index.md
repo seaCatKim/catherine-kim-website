@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.mdpi.com/2673-1924/3/2/12/htm'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image Credit: Figure 7 of paper'
   focal_point: ""
   preview_only: false
 
