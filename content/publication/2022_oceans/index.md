@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image Credit: Figure 7 of paper'
+  caption: 'Image Credit: Catherine Kim'
   focal_point: ""
   preview_only: false
 
