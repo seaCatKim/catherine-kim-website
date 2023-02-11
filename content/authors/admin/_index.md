@@ -67,7 +67,7 @@ email: ""
 highlight_name: true
 ---
 
-## 👋 Hi, I'm Catherine
+
 
 I'm currently a Lecturer at Queensland University of Technology in Brisbane, Australia. I am the unit coordiator for the Geospatial Information Science course. My current research is with the Modelling & Decision Science and Rubble Stabilisation sub-programs of the [Reef Restoration and Adaptation Program](https://gbrrestoration.org/) with Professors Michael Bode and Scott Bryan, respectively.
 
