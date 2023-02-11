@@ -2,7 +2,7 @@
 title: A Brief History of Timor-Leste
 
 # Summary for listings and search engines
-summary:
+summary: A brief history of Timor-Leste.
 # Link this post with a project
 projects: []
 
@@ -38,6 +38,8 @@ categories:
 
 
 A lot of the time I get a quizzical look when I say my research is in Timor-Leste. Sometimes, a few seconds of thought gives an “Oh… EAST Timor” response, but a good chunk of people have never heard of the place. Which is understandable, as it is a tiny nation of 1.3 million people encompassing half of Timor Island and has been formally a country less time than I have been alive. Timor-Leste is still officially a teenager with its independence in 2002. With the 20 year anniversary of the referendum popular consultation for independence, I thought I would briefly outline Timor-Leste’s history.
+
+![](July2014-Timor-Leste.jpg)
 
 Honestly, other than a basic timeline I did not have a good understanding of Timor-Leste’s history until doing a tour in the capital of Dili. The Portuguese colonized Timor in the 1500s when it was a global superpower. Prior to colonization, Timor Island was comprised of various tribes. Like most colonial powers at the time, Portugal was primarily interested in the unspoiled resources of the island like sandalwood and they did a good job of clearing it out. I do not think there is any sandalwood left in Timor to this day.
 
