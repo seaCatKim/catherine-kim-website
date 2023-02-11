@@ -4,7 +4,7 @@ title: A Brief History of Timor-Leste
 # Summary for listings and search engines
 summary: A brief history of Timor-Leste.
 # Link this post with a project
-projects: []
+projects: [Timor-Leste]
 
 # Date published
 date: "2019-09-05T00:00:00Z"
@@ -21,7 +21,7 @@ featured: true
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'View of Dili, Timor-Leste from above. Image credit: Catherine Kim'
+  caption: 'Kids playing at the beach. Image credit: Craig Heatherington'
   focal_point: ""
   placement: 2
   preview_only: false
