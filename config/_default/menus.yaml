@@ -16,9 +16,6 @@ main:
   - name: Publications
     url: '#featured'
     weight: 40
-  - name: CV
-    url: uploads/CKim_CV_2022_3.pdf
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
