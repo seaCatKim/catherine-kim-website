@@ -6,7 +6,7 @@ title: Catherine Kim
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Lecturer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.qut.edu.au/about/our-people/academic-profiles/cat.kim 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Coral reef ecologists all about rubble in Australia's Reef Restoration and Adaptation Program. Als, working in Timor-Leste and lover of R, baking, and knitting.
+bio: Coral reef ecologists all about rubble in Australia's Reef Restoration and Adaptation Program. Also working in Timor-Leste and lover of R, baking, and knitting.
 
 # Interests to show in About widget
 # interests:
@@ -69,7 +69,7 @@ highlight_name: true
 
 ## 👋 Hi, I'm Catherine
 
-I'm currently a postdoctoral researcher at Queensland University of Technology in Brisbane, Australia. My current work is with the Decision Science and Rubble Stabilisation subprograms of the [Reef Restoration and Adaptation Program](https://gbrrestoration.org/) with Professors Michael Bode and Scott Bryan, respectively.
+I'm currently a Lecturer at Queensland University of Technology in Brisbane, Australia. I am the unit coordiator for the Geospatial Information Science course. My current research is with the Modelling & Decision Science and Rubble Stabilisation sub-programs of the [Reef Restoration and Adaptation Program](https://gbrrestoration.org/) with Professors Michael Bode and Scott Bryan, respectively.
 
 
 My PhD research focused on the coral reef ecology of Timor-Leste 🇹🇱 and am interested in ecology and marine conservation in the wider Indo-Pacific.
