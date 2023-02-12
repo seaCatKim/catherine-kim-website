@@ -26,14 +26,14 @@ publishDate: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Oceans*
+publication: In *Oceans 3(2)*
 
 abstract: "El Niño Southern Oscillation global coral bleaching events are increasing in frequency, yet the severity of mass coral bleaching is not geographically uniform. Based in Timor-Leste, the present project had two major objectives: (1) assess the baseline of reefs and coral health at four sites and (2) explore water quality and climate-related changes in ocean temperatures on these understudied reef systems. The impacts of climate change were surveyed on coral reefs before and after the 2016–2017 global underwater heatwave, (principally by following coral mortality). Temperature loggers were also deployed between surveys, which were compared to Coral Reef Watch (CRW) experimental virtual station sea surface temperature (SST). CRW is an important and widely used tool; however, we found that the remotely sensed SST was significantly warmer (>1 °C) than in situ temperature during the austral summer accruing 5.79-degree heating weeks. In situ temperature showed no accumulation. There were significant differences in coral cover, coral diversity, and nutrient concentrations between sites and depths, as well as a low prevalence of disease recorded in both years. Change in coral cover between surveys was attributed to reef heterogeneity from natural sources and localized anthropogenic impacts. Timor-Leste has both pristine and impacted reefs where coral cover and community composition varied significantly by site. Degradation was indicative of impacts from fishing and gleaning. The comparison of in situ temperature and remotely sensed SST indicated that bleaching stress in Timor-Leste is potentially mitigated by seasonal coastal upwelling during the Northwest monsoon season. As a climate refugium, the immediate conservation priority lies in the mitigation of localized anthropogenic impacts on coral reefs through increasing the management of expanding human-related sedimentation and fishing."
 
 # Summary. An optional shortened abstract.
 summary: []
 
-tags: []
+tags: [Timor-Leste]
 
 # Display this page in the Featured widget?
 featured: true
