@@ -1,6 +1,6 @@
 ---
 title: "A contemporary baseline record of the world’s coral reefs"
-date: "2020-10-20"
+date: "2020-02-04"
 doi: https://doi.org/10.1038/s41597-020-00698-6
 publication_types = ["2"]
 authors: 
