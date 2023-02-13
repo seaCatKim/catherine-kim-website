@@ -58,4 +58,15 @@ item:
 
 design:
   columns: '2' 
+  background:
+    image: Cali_wave.jpg  # in assets/media
+    image_darken: 0.5  # range 0-1, close to 0 is darker
+    image_parallax: true
+    image_position: center
+    image_size: cover
+    text_color_light: false
+  spacing:
+    padding: ['100px', '0', '0', '0']
+advanced:
+  css_class: fullscreen
 ---
