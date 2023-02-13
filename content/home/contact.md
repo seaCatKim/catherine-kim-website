@@ -54,4 +54,6 @@ content:
 
 design:
   columns: '2'
+  background:
+    image: tablecoral_fish.jpg  # in assets/media
 ---
