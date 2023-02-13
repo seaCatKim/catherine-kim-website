@@ -2,7 +2,6 @@
 title: "A contemporary baseline record of the world’s coral reefs"
 date: "2020-02-04"
 doi: "https://doi.org/10.1038/s41597-020-00698-6"
-publication_types = ["2"]
 authors: 
 - Alberto Rodriguez-Ramirez
 - Manuel González-Rivero
@@ -22,7 +21,8 @@ authors:
 - Julie Vercelloni
 - Hawthorne L. Beyer
 - Ove Hoegh-Guldberg
-publication type: ["2"]
+
+publication_types: ["2"]
 publication: In *Scientific Data*, (7), 1, _p. 355_
 
 url_pdf: '' 
