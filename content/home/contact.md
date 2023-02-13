@@ -56,4 +56,5 @@ design:
   columns: '2'
   background:
     image: tablecoral_fish.jpg  # in assets/media
+        text_color_light: true
 ---
