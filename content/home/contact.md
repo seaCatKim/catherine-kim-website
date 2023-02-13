@@ -57,5 +57,5 @@ design:
   background:
     image: tablecoral_fish.jpg  # in assets/media
     image_darken: 0.5  # range 0-1, close to 0 is darker
-    text_color_light: false
+    text_color_light: true
 ---
