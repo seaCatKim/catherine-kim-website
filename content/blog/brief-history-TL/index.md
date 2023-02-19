@@ -41,6 +41,16 @@ categories:
 
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TTD46JCLHQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TTD46JCLHQ');
+</script>
+
 
 A lot of the time I get a quizzical look when I say my research is in Timor-Leste. Sometimes, a few seconds of thought gives an “Oh… EAST Timor” response, but a good chunk of people have never heard of the place. Which is understandable, as it is a tiny nation of 1.3 million people encompassing half of Timor Island and has been formally a country less time than I have been alive. Timor-Leste is still officially a teenager with its independence in 2002. With the 20 year anniversary of the referendum popular consultation for independence, I thought I would briefly outline Timor-Leste’s history.
 

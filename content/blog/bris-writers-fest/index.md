@@ -28,6 +28,16 @@ categories:
 - Fun
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TTD46JCLHQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TTD46JCLHQ');
+</script>
+
 <p>I have never been to a writer's festival or ever really thought about going to one. I was on the University of Queensland's (UQ) library's page to search for an article like a good student and one of the event banners scrolling through had a talk by Min Jin Lee to talk about her <em>New York Times</em> best-selling book <em>Pachinko</em>. I froze, looking at a portrait of a writer who completely reflected me, female, Korean, <em>Korean-American</em> even, and she was going to be in Brisbane.</p><p>I couldn't go to her UQ library talk, but as UQ is a principal sponsor of the Brisbane Writer's Festival I was able to score free tickets to the events.</p>
 
 
