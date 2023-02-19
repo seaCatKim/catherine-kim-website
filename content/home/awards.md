@@ -35,10 +35,10 @@ item:
 - certificate_url: ""
   date_end: ""
   date_start: "2022-11-25"
-  description: "Best poster at the QUT's Early Career Research Symposium for the Faculty of Science"
+  description: ""
   organization: Queensland University of Technology, Faculty of Science 
   organization_url: https://qut.edu.au
-  title: Best Poster
+  title: Best Poster, Faculty of Science, QUT Early Career Research Symposium
   company_logo: qut
   url: ""
 - certificate_url: ""
