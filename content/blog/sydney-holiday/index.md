@@ -49,6 +49,7 @@ categories:
   gtag('config', 'G-TTD46JCLHQ');
 </script>
 
+
 ![](sydney-glass.jpg)
 ![](sydney-operahouseconcrete.jpg)
 ![](sydney-operahouse.jpg)

@@ -49,6 +49,7 @@ categories:
   gtag('config', 'G-TTD46JCLHQ');
 </script>
 
+
 Bondia. Diak a lae?
 
 My foray into Tetun, the local language of Timor-Leste. The former 27th province of Indonesia was previously a Portuguese colony for 300 years; hence, Tetun is the local language for the entire country that is heavily influenced by Portuguese. It is a creole of the different dialects spoken in the districts with Portuguese loan words. For instance, commonly used greetings are derived directly from Portuguese: bondia, botardi, bonoiti – good morning, good afternoon, and good evening. Other words are obviously from Portuguese, say ‘restaurate,’ but more slang Portuguese is not so obvious to an English speaker. For instance, “tenki” means “must” as in “Hau tenki practika Tetun” (I must practice Tetun) which is also commonly used in Portugal.

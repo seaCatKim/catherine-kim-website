@@ -52,6 +52,7 @@ categories:
   gtag('config', 'G-TTD46JCLHQ');
 </script>
 
+
 I am excited to announce I have been selected as the Scientific Exploration Society’s Elodie Sanford Explorer Awardee for Amateur Photography! Elodie Sanford was an avid photographer, explorer, and honorary Vice President of the SES. It is an honor to continue on her legacy as a pioneer with a purpose investigating Tara bandu in Timor-Leste.
 
 I focused my PhD research on the coral reef ecology of Timor-Leste. It became apparent that the cultural, socio-economic, and environmental aspects of society were very much intertwined. On my second field trip, I learned that my site on Atauro Island had been designated as a locally managed marine area (LMMA) just weeks before through Tara bandu, or customary law. This meant that no fishing was allowed on the protected reef and as a visitor, I had to pay a small fee to SCUBA dive for my research. Although I was focusing on the corals for my surveys, it looked “fishier” than I had remembered! There were these large schools of fish I did not recall seeing previously, however, it had been almost 18 months since my last dive here.

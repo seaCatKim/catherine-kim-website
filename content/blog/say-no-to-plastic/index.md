@@ -52,6 +52,7 @@ categories:
   gtag('config', 'G-TTD46JCLHQ');
 </script>
 
+
 Today is World Environment Day. People often ask me how I knew I wanted to be a marine biologist. I don't really have a good answer other than I always knew I loved the ocean.
 
 Unfortunately, there are a lot of issues facing the environment and the oceans are no exception. The list is long, depressing, and daunting it is hard to believe an individual can really make a difference in reversing some of these effects. Little things like remembering your reusable shopping bags at the store can mae a difference in our oceans. I have been tricked by plastic bags underwater. I get excited because they look like jellyfish, but upon swimming closer realize that it's plastic. I make and effort to reduce my plastic waste - I use a reusable water bottle, I bring a mug with me to get coffee, I attempt to not get straws when ordering drinks - but I am still guilty of generating plastic waste. Last month, I was on a field trip surveying the reefs of Tun Mustapha Park off the north coast of Sabah in Malaysian Borneo with WWF Malaysia. It was a very local trip. Case and point our boat:
