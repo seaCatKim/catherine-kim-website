@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 22
+weight: 1
 
 title: Welcome
 subtitle: 👋 Hi, I'm Catherine 
@@ -26,7 +26,7 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['50px', '0', '0', '0']
+    padding: ['0', '0', '0', '0']
 advanced:
   css_class: fullscreen
   
