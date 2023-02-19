@@ -49,11 +49,11 @@ content:
       link: 'https://twitter.com/fishiintheC'
     - icon: mastodon
       icon_pack: fab
-      name: DM Me
+      name: Mastodon
       link: 'https://scicomm.xyz/@seaCatKim'
     - icon: linkedin
       icon_pack: fab
-      name: DM Me
+      name: LinkedIn
       link: 'https://www.linkedin.com/in/seacatkim/'
     # - icon: video
     #   icon_pack: fas
