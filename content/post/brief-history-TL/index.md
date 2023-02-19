@@ -2,7 +2,8 @@
 title: A Brief History of Timor-Leste
 
 # Summary for listings and search engines
-summary: A brief history of Timor-Leste.
+summary: Have you heard of the country, Timor-Leste? Read on to hear about what I learned from doing marine science research in-country.
+
 # Link this post with a project
 projects: [Timor-Leste]
 
@@ -31,8 +32,12 @@ authors:
 
 tags:
 - Timor-Leste
+- history
+- travel
 
 categories:
+- Research
+- Travel
 
 ---
 
