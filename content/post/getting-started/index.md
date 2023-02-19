@@ -32,10 +32,10 @@ authors:
 - admin
 
 tags:
-- Academic
+
 
 categories:
-- Demo
+
 ---
 
 ## Overview
