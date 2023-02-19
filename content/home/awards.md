@@ -25,6 +25,24 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2022-07-12"
+  description: ""
+  organization: Queensland Museum Network 
+  organization_url: https://qut.edu.au
+  title: Finalist, Queensland Women in STEM Prize
+  company_logo: qut
+  url: ""
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-11-25"
+  description: "Best poster at the QUT's Early Career Research Symposium for the Faculty of Science"
+  organization: Queensland University of Technology, Faculty of Science 
+  organization_url: https://qut.edu.au
+  title: Best Poster
+  company_logo: qut
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2019-01-25"
   description: ""
   organization: Scientific Exploration Society
@@ -50,11 +68,11 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2020-07-01"
+  date_start: "2014-07-01"
   description: ""
   organization: BioMed Central Ecology Image Competition
   title: 'Winner, Conservation Ecology and Biodiversity Research Section'
-  url: ""
+  url: "https://bmcecol.biomedcentral.com/articles/10.1186/s12898-014-0024-6/figures/5"
 
 design:
   columns: '2' 
