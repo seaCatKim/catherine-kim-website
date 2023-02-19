@@ -24,9 +24,9 @@ design:
     image_parallax: true
     image_position: center
     image_size: cover
-    text_color_light: true
+    text_color_light: false
   spacing:
-    padding: ['100px', '0', '0', '0']
+    padding: ['50px', '0', '0', '0']
 advanced:
   css_class: fullscreen
   
