@@ -48,7 +48,7 @@ item:
   organization: Scientific Exploration Society
   organization_url: https://www.ses-explore.org/
   title: Elodie Sandford Explorer Award
-  url: https://www.ses-explore.org/
+  url: https://www.ses-explore.org/index.php/ses-explorer-award-winners-2019
 - certificate_url: ""
   date_end: ""
   date_start: "2020-09-01"
