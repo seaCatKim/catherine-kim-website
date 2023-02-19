@@ -11,3 +11,7 @@ go.sum
 .Rproj.user
 .DS_Store
 Thumbs.db
+
+# reference folders
+my-bib-folder/
+my-md-folder/
