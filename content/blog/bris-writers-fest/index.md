@@ -1,6 +1,6 @@
 ---
 title: Brisbane Writer's Festival
-summary:
+summary: A life-chaning experience at a writer's festival.
 project: []
 date: "2017-09-21T00:00:00Z"
 # Date updated

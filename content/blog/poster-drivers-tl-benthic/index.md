@@ -1,8 +1,8 @@
 ---
 title: Poster - Drivers of coral reef benthic composition in Timor-Leste
 
-# Summary for listings and search engines
-summary:
+# Summary for listings and search engines, need something to avoid showing google tag
+summary: Poster from the School of Environmental and Earth Science HDR Symposium.
 
 # Link this post with a project
 projects: [Timor-Leste]

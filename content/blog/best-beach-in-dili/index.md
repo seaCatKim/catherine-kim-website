@@ -2,7 +2,7 @@
 title: Best Beach in Dili
 
 # Summary for listings and search engines
-summary:
+summary: Reflections on a beach in Dili.
 
 # Link this post with a project
 projects: [Timor-Leste]

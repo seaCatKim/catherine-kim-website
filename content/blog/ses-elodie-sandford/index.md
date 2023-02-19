@@ -1,8 +1,7 @@
 ---
 title: SES Elodie Sandford Explorer for 2019
 # Summary for listings and search engines
-summary:
-
+summary: Announcement!
 # Link this post with a project
 projects: [Timor-Leste]
 

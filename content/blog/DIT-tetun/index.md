@@ -2,7 +2,7 @@
 title: Tetun in Timor-Leste
 
 # Summary for listings and search engines
-summary:
+summary: What is Tetun?
 
 # Link this post with a project
 projects: [Timor-Leste]

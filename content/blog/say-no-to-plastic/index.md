@@ -2,7 +2,7 @@
 title: Say No to Plastic
 
 # Summary for listings and search engines
-summary: 
+summary: Thoughts on plastic during field work.
 
 # Link this post with a project
 projects: []
