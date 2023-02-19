@@ -14,7 +14,7 @@ organizations:
   url: https://www.qut.edu.au/about/our-people/academic-profiles/cat.kim 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Coral reef ecologists all about rubble in Australia's Reef Restoration and Adaptation Program. Also working in Timor-Leste and lover of R, baking, and knitting.
+bio: Coral reef ecologists all about rubble and decisions in Australia's Reef Restoration and Adaptation Program. Also working in Timor-Leste and lover of R, baking, and knitting.
 
 # Interests to show in About widget
 # interests:
