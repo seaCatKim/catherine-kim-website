@@ -14,23 +14,24 @@ organizations:
   url: https://www.qut.edu.au/about/our-people/academic-profiles/cat.kim 
 
 # Short bio (displayed in user profile at end of posts)
-bio: Coral reef ecologist all about rubble and decisions in Australia's Reef Restoration and Adaptation Program. Also working in Timor-Leste and lover of R, baking, and knitting.
+bio: Marine scientist all about coral rubble and decisions in Australia's Reef Restoration and Adaptation Program. Also working in Timor-Leste and lover of R, baking, and knitting.
 
 # Interests to show in About widget
 interests:
-- Coral Reef Ecology
-- Restoration
+- Coral Reefs
+- Geospatial science
+- Ecology and Restoration
 - R!
 
 # Education to show in About widget
-# education:
-#   courses:
-#   - course: PhD in Biological Sciences
-#     institution: The University of Queensland
-#     year: 2021
-#   - course: BSc in Science of Earth Systems concentration Oceanography
-#     institution: Cornell University
-#     year: 2012
+education:
+  courses:
+  - course: PhD in Biological Sciences
+    institution: The University of Queensland
+    year: 2021
+  - course: BSc in Science of Earth Systems concentration Oceanography
+    institution: Cornell University
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,4 +71,4 @@ highlight_name: true
 I'm currently a Lecturer at Queensland University of Technology in Brisbane, Australia. I am the unit coordiator for the Geospatial Information Science course. My current research is with the Modelling & Decision Science and Rubble Stabilisation sub-programs of the [Reef Restoration and Adaptation Program](https://gbrrestoration.org/) with Professors Michael Bode and Scott Bryan, respectively.
 
 
-My PhD research focused on the coral reef ecology of Timor-Leste 🇹🇱 and am interested in ecology and marine conservation in the wider Indo-Pacific.
+My PhD research focused on the coral reef ecology of Timor-Leste 🇹🇱 and am interested in marine systems and conservation in the wider Indo-Pacific.
