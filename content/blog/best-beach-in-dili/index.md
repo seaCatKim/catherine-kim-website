@@ -43,7 +43,6 @@ categories:
 - Field work
 ---
 
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TTD46JCLHQ"></script>
 <script>
@@ -53,7 +52,6 @@ categories:
 
   gtag('config', 'G-TTD46JCLHQ');
 </script>
-
 
 Sometimes field work is not so bad.
 
