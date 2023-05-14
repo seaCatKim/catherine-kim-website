@@ -60,7 +60,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2014-07-01"
+  date_start: "2017-07-01"
   description: ""
   organization: Australian Marine Science Association 
   organization_url: https://wit.org.au
@@ -68,7 +68,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2014-07-01"
+  date_start: "2014-08-29"
   description: ""
   organization: BioMed Central Ecology Image Competition
   title: 'Winner, Conservation Ecology and Biodiversity Research Section'
