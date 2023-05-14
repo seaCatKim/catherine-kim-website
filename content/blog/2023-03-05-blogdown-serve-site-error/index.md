@@ -8,7 +8,7 @@ slug: blogdown-servesite-error
 summary: How to fix the `Error from config failed to resolve output format headers from site config`
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 authors:
   - admin
