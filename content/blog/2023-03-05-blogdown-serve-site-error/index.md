@@ -45,7 +45,7 @@ categories:
 
 I set up my website about a year ago using Hugo and the Wowchemy Academic template. Overall, it has been a cool experience to put together your own website. Previously, I was paying for a Squarespace website and moving away from that was the motivating driver. It's been a journey trying to migrate old wordpress content and squarespace content into Hugo - maybe a different post.
 
-Recently, I've been getting the same error when trying to serve my Hugo site. This is the second error that appears on the Wowchemy [Troubleshooting](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/) page, "Error: failed to resolve outpute format". The fix seems to be deleting the `hugo_cache` folder in your `temp` directory. Could be '%TMP% or %TMPDIR% depending on your operating system (OS) or version. My machine is on Windows 10 Pro and a quick google found that pressing the Windows + R keys and typing in %temp% did the trick.
+Recently, I've been getting the same error when trying to serve my Hugo site. This is the second error that appears on the Wowchemy [Troubleshooting](https://wowchemy.com/docs/hugo-tutorials/troubleshooting/) page, "Error: failed to resolve output format". The fix seems to be deleting the `hugo_cache` folder in your `temp` directory. Could be '%TMP% or %TMPDIR% depending on your operating system (OS) or version. My machine is on Windows 10 Pro and a quick google found that pressing the Windows + R keys and typing in %temp% did the trick.
 
 ![](Inkedhugo_cache.jpg)
 
