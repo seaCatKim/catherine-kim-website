@@ -25,10 +25,19 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
+  date_start: "2023-07-13"
+  description: "The eighth Queensland Women in STEM award and presented by Queensland Museum Network, the Office of the Queensland Chief Scientist, and the Office for Women and Violence Prevention, the prize recognises women who are making a difference to the world, in science, technology, engineering and maths (STEM) fields."
+  organization: Queensland Museum Network 
+  organization_url: https://www.museum.qld.gov.au/about/queensland-women-in-stem-prize
+  title: Highly Commended, Queensland Women in STEM Prize
+  company_logo: qut
+  url: ""
+- certificate_url: ""
+  date_end: ""
   date_start: "2022-07-12"
   description: ""
   organization: Queensland Museum Network 
-  organization_url: https://qut.edu.au
+  organization_url: 
   title: Finalist, Queensland Women in STEM Prize
   company_logo: qut
   url: ""
