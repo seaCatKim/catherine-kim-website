@@ -43,10 +43,6 @@ content:
   #   - 'Wednesday 09:00 to 10:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
-    - icon: twitter
-      icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/fishiintheC'
     - icon: mastodon
       icon_pack: fab
       name: Mastodon
